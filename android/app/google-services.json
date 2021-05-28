@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2630049588",
+    "firebase_url": "https://sademoappone.firebaseio.com",
+    "project_id": "sademoappone",
+    "storage_bucket": "sademoappone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2630049588:android:b6954c465678e3f1894f61",
+        "android_client_info": {
+          "package_name": "com.testerjohn.sademoappone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2630049588-fhcjlkp62hu1acdlrj6gnslfg2h6bmkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz90XeyTzlfKpK4QraIxhFpeyQ1lsuBHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2630049588-fhcjlkp62hu1acdlrj6gnslfg2h6bmkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
